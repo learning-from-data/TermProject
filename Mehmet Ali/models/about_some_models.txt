@@ -1,0 +1,1 @@
+KNN, Naive Bayes, Decision Tree are tried but they did not give good result.

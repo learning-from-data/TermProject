@@ -1,0 +1,4 @@
+svm_basic | submission_svm.csv : 0.98791
+svm_normalized | submission_svm_normalized: 0.99030
+svm_different_kernels_class_weight | submission_svm_different_kernels_sigmoid.csv: 0.98931
+svm_pca | submission_svm_pca.csv : 0.99011
