@@ -1,0 +1,15 @@
+Hedef değişkenle en yüksek korelasyona sahip özellikler:
+clip_feature_471    0.515605
+clip_feature_115    0.511466
+clip_feature_102    0.496437
+clip_feature_465    0.481352
+dino_feature_447    0.448806
+                      ...   
+clip_feature_24     0.284886
+clip_feature_501    0.284884
+clip_feature_112    0.284792
+clip_feature_141    0.283672
+dino_feature_330    0.282566
+Name: label, Length: 100, dtype: float64
+5-Fold Cross-Validation F1 Scores: [0.9644223512650006, 0.9691862320555382, 0.9711644450580824, 0.9701084275816176, 0.9685937629942065]
+Average F1 Score: 0.9686950437908891

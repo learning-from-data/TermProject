@@ -1,0 +1,25 @@
+Class Distribution:
+label
+1    4000
+3    4000
+8    4000
+7    4000
+9    4000
+4    4000
+5    4000
+2    4000
+6    4000
+0    4000
+Name: count, dtype: int64
+Imbalance Ratio: 1.0
+Fold 1
+Fold 1 F1 Score: 0.9692397924618327
+Fold 2
+Fold 2 F1 Score: 0.9735215796669133
+Fold 3
+Fold 3 F1 Score: 0.9733746443481047
+Fold 4
+Fold 4 F1 Score: 0.9749078782131634
+Fold 5
+Fold 5 F1 Score: 0.9730201093707195
+Average F1 Score: 0.9728128008121468

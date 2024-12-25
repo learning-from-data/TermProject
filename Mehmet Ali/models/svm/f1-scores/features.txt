@@ -13,3 +13,5 @@ Features: resnet_feature, vit_feature, dino_feature | Mean F1 Score: 0.9880
 Features: resnet_feature, clip_feature, dino_feature | Mean F1 Score: 0.9890
 Features: vit_feature, clip_feature, dino_feature | Mean F1 Score: 0.9890
 Features: resnet_feature, vit_feature, clip_feature, dino_feature | Mean F1 Score: 0.9888
+Submission file created: submission_svm_normalized_rbf_class.csv
+F1 scores file created: f1_scores_feature_combinations.txt
